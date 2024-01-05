@@ -1,1 +1,0 @@
-import{a as e}from"./abcTabelle-6731846a.js";import{m as t,t as a,q as o}from"./index-c0e7e2ee.js";import"./VSpacer-33c59772.js";const _=t({__name:"Print",setup(r){return(n,c)=>(o(),a(e))}});export{_ as default};
